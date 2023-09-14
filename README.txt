@@ -1,0 +1,1 @@
+To access the database from the code, you need to change the password variable in "DataBaseConnection" class to your password
